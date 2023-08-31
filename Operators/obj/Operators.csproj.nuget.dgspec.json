@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\emre\\Desktop\\C#\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\emre\\Desktop\\C#\\Operators\\Operators.csproj": {}
   },
   "projects": {
-    "c:\\Users\\emre\\Desktop\\C#\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\emre\\Desktop\\C#\\Operators\\Operators.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\emre\\Desktop\\C#\\MyApp\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "c:\\Users\\emre\\Desktop\\C#\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\emre\\Desktop\\C#\\Operators\\Operators.csproj",
+        "projectName": "Operators",
+        "projectPath": "C:\\Users\\emre\\Desktop\\C#\\Operators\\Operators.csproj",
         "packagesPath": "C:\\Users\\emre\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\emre\\Desktop\\C#\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\emre\\Desktop\\C#\\Operators\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
