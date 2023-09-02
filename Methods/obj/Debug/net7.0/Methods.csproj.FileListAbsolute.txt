@@ -1,0 +1,14 @@
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.AssemblyInfo.cs
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\C#\Methods\bin\Debug\net7.0\Methods.exe
+C:\Users\emre\Desktop\C#\Methods\bin\Debug\net7.0\Methods.deps.json
+C:\Users\emre\Desktop\C#\Methods\bin\Debug\net7.0\Methods.runtimeconfig.json
+C:\Users\emre\Desktop\C#\Methods\bin\Debug\net7.0\Methods.dll
+C:\Users\emre\Desktop\C#\Methods\bin\Debug\net7.0\Methods.pdb
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.dll
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\refint\Methods.dll
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.pdb
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\Methods.genruntimeconfig.cache
+C:\Users\emre\Desktop\C#\Methods\obj\Debug\net7.0\ref\Methods.dll
