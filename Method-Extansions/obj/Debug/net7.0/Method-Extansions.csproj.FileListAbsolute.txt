@@ -1,0 +1,14 @@
+C:\Users\emre\Desktop\C#\Method-Extansions\bin\Debug\net7.0\Method-Extansions.exe
+C:\Users\emre\Desktop\C#\Method-Extansions\bin\Debug\net7.0\Method-Extansions.deps.json
+C:\Users\emre\Desktop\C#\Method-Extansions\bin\Debug\net7.0\Method-Extansions.runtimeconfig.json
+C:\Users\emre\Desktop\C#\Method-Extansions\bin\Debug\net7.0\Method-Extansions.dll
+C:\Users\emre\Desktop\C#\Method-Extansions\bin\Debug\net7.0\Method-Extansions.pdb
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.AssemblyInfo.cs
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.dll
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\refint\Method-Extansions.dll
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.pdb
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\Method-Extansions.genruntimeconfig.cache
+C:\Users\emre\Desktop\C#\Method-Extansions\obj\Debug\net7.0\ref\Method-Extansions.dll
