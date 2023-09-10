@@ -1,0 +1,14 @@
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\bin\Debug\net7.0\Karakter_Tersten.exe
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\bin\Debug\net7.0\Karakter_Tersten.deps.json
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\bin\Debug\net7.0\Karakter_Tersten.runtimeconfig.json
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\bin\Debug\net7.0\Karakter_Tersten.dll
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\bin\Debug\net7.0\Karakter_Tersten.pdb
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.AssemblyInfoInputs.cache
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.AssemblyInfo.cs
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.csproj.CoreCompileInputs.cache
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.dll
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\refint\Karakter_Tersten.dll
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.pdb
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\Karakter_Tersten.genruntimeconfig.cache
+C:\Users\emre\Desktop\C#\C#_Projects\Karakter_Tersten\obj\Debug\net7.0\ref\Karakter_Tersten.dll
